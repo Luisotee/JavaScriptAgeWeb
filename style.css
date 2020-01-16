@@ -1,0 +1,19 @@
+body
+{
+    background: lightblue;
+    font: normal 15pt Arial;
+    text-align: center;
+}
+section
+{
+    background: white;
+    border-radius: 10px;
+    width: 550px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.37);
+}
+div#res
+{
+    padding: 12px;
+}
